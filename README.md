@@ -7,7 +7,7 @@ Programmet er et manuelt system.
 Man skal selv ind og ændre på variablen currentPop.
 ```Java
 int currentPop = 331002651;
-
+```
 ## Bidrage til projektet
 Man kan bidrage til projektet ved at gør systemet brugervenligt det kan gøres ved at:
 1. tilføje en scanner til at tage input fra user
