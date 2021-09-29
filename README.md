@@ -5,7 +5,9 @@ populations stigning om 5 år.
 ## Hvordan det bruges
 Programmet er et manuelt system. Man skal selv ind og ændre på variablen currentPop. 
 Variablen currentPop skal bare ændres til den nuværende population, som kan tages fra noget offentligt statistik.
-```Java int currentPop = 331002651; ```
+```Java
+int currentPop = 331002651;
+```
 
 ## Bidrage til projektet
 Man kan bidrage til projektet ved at gøre systemet brugervenligt, det kan gøres ved at:
