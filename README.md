@@ -16,7 +16,7 @@ Man kan bidrage til projektet ved at gøre systemet brugervenligt, det kan gøre
 
 ## Contributors
 Tak til følgende der har lavet projektet :)
-* [@MichaelDyvad](https://github.com/MichaelDyvad)```code```
+* [@MichaelDyvad](https://github.com/MichaelDyvad)💻
 
 ## Contact
 Hvis du vil kontakte mig kan det ske på michaeldyvad@gmail.com
